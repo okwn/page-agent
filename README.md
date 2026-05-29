@@ -119,3 +119,5 @@ this project possible.
 ---
 
 **⭐ Star this repo if you find PageAgent helpful!**
+
+- Documentation updated for clarity
