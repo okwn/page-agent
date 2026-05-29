@@ -45,3 +45,6 @@ By contributing to this project, you agree that your contributions will be licen
 ---
 
 Thank you for helping make PageAgent better! 🎉
+
+## Contributors
+- Documentation improvements (2026)
